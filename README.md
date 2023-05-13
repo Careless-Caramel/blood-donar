@@ -1,4 +1,4 @@
-#                                                  Blood Donar Analysis using NAive Bayes
+#                                                  Blood Donar Analysis using Naive Bayes
 
 ![360_F_254057115_U7v21xIVH1VwLe9jpfbztv8asNm1GvWa](https://www.pharmasolutions-int.com/wp-content/uploads/2022/06/World-Blood-Donor-Day-2022_.jpg)
 
